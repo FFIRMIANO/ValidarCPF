@@ -1,0 +1,23 @@
+.container{
+    text-align: center;
+    color: rgb(238, 218, 227);
+    background: #a8799c;
+}
+.body input {
+    background: rgb(243, 201, 243);
+    padding: 10px;
+    margin-right: 12px;
+}
+
+.body button{
+    padding: 10px 16px;
+    color: rgb(108, 8, 96);
+    background: #e6c1da; ;
+}
+
+.footer{
+    margin-top: 25px;
+    font-size: 25px;
+    
+}
+
